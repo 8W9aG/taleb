@@ -1,0 +1,9 @@
+-r requirements.txt
+pytest==8.0.2
+ruff==0.3.0
+isort==5.13.2
+flake8==7.0.0
+pylint==3.1.0
+mypy==1.8.0
+pyright==1.1.352
+twine==5.0.0
