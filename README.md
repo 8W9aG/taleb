@@ -45,4 +45,4 @@ To get familiar with the individual functions and charts check out the documents
 
 ## License :memo:
 
-The project is available under the [GPL2 License](LICENSE).
+The project is available under the [MIT License](LICENSE).
