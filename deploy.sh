@@ -3,5 +3,6 @@
 set -e
 
 git push origin main
+rm -rf dist
 python setup.py sdist
-twine upload dist/* --verbose
+twine upload --skip-existing dist/* --verbose
