@@ -23,7 +23,7 @@ def install_requires() -> typing.List[str]:
 
 setup(
     name='taleb',
-    version='0.0.2',
+    version='0.0.4',
     description='A pure python version of ta-lib.',
     long_description=long_description,
     long_description_content_type='text/markdown',

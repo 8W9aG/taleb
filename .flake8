@@ -2,3 +2,6 @@
 max-line-length = 111
 per-file-ignores =
     __init__.py: F401
+    DEMA.py: E203
+    TEMA.py: E203
+    TRIMA.py: E203
